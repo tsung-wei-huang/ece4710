@@ -25,8 +25,8 @@ Each team will complete the development of the project proposed in 3992. The tea
 
 # Class Logistics
 
-We will offer the class *in-person* at [MEB 3143](https://map.utah.edu/index.html?code=MEB).
-Weekly project meeting will be hold in MEB 2124 or zoom ([https://utah.zoom.us/my/twhuang](https://utah.zoom.us/my/twhuang)).
+We will offer the class at MEB 3143.
+Weekly project meeting will be hold in MEB 3143 (or other conference room) or zoom ([https://utah.zoom.us/my/twhuang](https://utah.zoom.us/my/twhuang)).
  We strongly request every one to follow the University's [COVID-19 policy](https://coronavirus.utah.edu/). 
 
 + Class (CS/ECE 4710)
@@ -48,7 +48,9 @@ Weekly project meeting will be hold in MEB 2124 or zoom ([https://utah.zoom.us/m
 
 # Class Schedule
 
-We will use [ECE/CS 4710 Worksheet](https://docs.google.com/spreadsheets/d/1wXqXjKIsvy4jrRFdygoRJFNKM5Lz3bVM674V4YcjLks/edit?usp=sharing) to coordinate all the schedules!
+:exclamation: We will use [ECE/CS 4710 Worksheet](https://docs.google.com/spreadsheets/d/1wXqXjKIsvy4jrRFdygoRJFNKM5Lz3bVM674V4YcjLks/edit?usp=sharing) to coordinate all the schedules!
+
+:exclamation: Please fill in the [SoC Doorlock Request Form](https://www.cs.utah.edu/soc-doorlock-request/) to get access to MEB 3134. If you don't have an account in the SoC, please fill in the section *SoC Username* with `n/a`.
 
 | Lecture  | Topic |  Due | 
 | :-:      | :-:   |  :-: |
