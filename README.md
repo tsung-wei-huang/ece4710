@@ -30,7 +30,7 @@ Weekly project meeting will be hold in MEB 3143 (or other conference room) or zo
  We strongly request every one to follow the University's [COVID-19 policy](https://coronavirus.utah.edu/). 
 
 + Class (CS/ECE 4710)
-  + Time: 12:15 PM - 13:45 PM, Tu/Th (excluding holidays)
+  + Time: 12:25 PM - 13:45 PM, Tu/Th (excluding holidays)
   + Location: MEB 3134
   + Prerequisites: ECE/CS 3992
 + Instructor: [Prof. Tsung-Wei Huang][Tsung-Wei Huang]
